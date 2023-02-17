@@ -1,0 +1,23 @@
+{
+  "name": "pipleine-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yosabba/ubiquitous-waffle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yosabba/ubiquitous-waffle/issues"
+  },
+  "homepage": "https://github.com/Yosabba/ubiquitous-waffle#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
